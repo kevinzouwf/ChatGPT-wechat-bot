@@ -1,4 +1,7 @@
 {
+   "engines": {
+        "node": "14.x || 16.x"
+   },
   "name": "chatgpt-wechatbot",
   "version": "1.0.0",
   "description": "",
